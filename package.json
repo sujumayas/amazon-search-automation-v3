@@ -1,0 +1,24 @@
+{
+  "name": "amazon-search-automation",
+  "version": "1.0.0",
+  "description": "Amazon product search automation using Puppeteer",
+  "main": "src/amazonSearch.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "keywords": [
+    "automation",
+    "amazon",
+    "puppeteer",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
